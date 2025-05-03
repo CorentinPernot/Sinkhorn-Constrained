@@ -33,6 +33,9 @@ The notebook `Sinkhorn_constrained.ipynb` includes:
 - Reproduction of the constraint matrix \( D \) generation as in Equation (13) of the paper
 - Visualization of the convergence behavior
 - Application to the MNIST dataset (e.g., constrained transport between digit distributions)
+<p align="center">
+  <img src="MNIST_constrained.png" width="400"/>
+</p>
 
 
 ## 🚀 Installation
