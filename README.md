@@ -34,7 +34,7 @@ The notebook `Sinkhorn_constrained.ipynb` includes:
 - Visualization of the convergence behavior
 - Application to the MNIST dataset (e.g., constrained transport between digit distributions)
 <p align="center">
-  <img src="MNIST_constrained.png" width="400"/>
+  <img src="MNIST_constrained.png" width="800"/>
 </p>
 
 
