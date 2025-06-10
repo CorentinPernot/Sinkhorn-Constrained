@@ -37,10 +37,3 @@ The notebook `Sinkhorn_constrained.ipynb` includes:
   <img src="MNIST_constrained.png" width="800"/>
 </p>
 
-
-## 🚀 Installation
-
-You will need:
-
-- Python ≥ 3.9
-- [JAX](https://github.com/google/jax)
