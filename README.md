@@ -1,5 +1,7 @@
 # Sinkhorn-type Algorithm for Constrained Optimal Transport
 
+## *Jules Chapon & Corentin Pernot*
+
 This repository contains a JAX-based implementation and notebook demonstrating the **Sinkhorn-type algorithm for constrained optimal transport**, as proposed in the paper:
 
 > **A Sinkhorn-type Algorithm for Constrained Optimal Transport**  
